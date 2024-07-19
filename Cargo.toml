@@ -1,0 +1,12 @@
+[workspace]
+resolver = "2"
+members = [
+    # Projects
+    "echo_server",
+
+    # Tools
+    "tools/net_framework",
+
+    # Additional
+    "",
+]
